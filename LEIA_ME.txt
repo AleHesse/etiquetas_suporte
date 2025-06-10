@@ -1,0 +1,14 @@
+Observação: Editar lista.txt seguindo o modelo abaixo
+
+A lista só deve conter o PATRIMONIO e o LOCAL separados por virgula. 
+exemplo de lista:
+
+PATRIMONIO,	LOCAL,	ETIQUETA
+555555,	 Gabinete do Prefeito,	
+555556,	 Gabinete do Prefeito,	
+555557,	 Gabinete do Prefeito,	
+
+A o nome da ETIQUETA é gerada automaticamente a partir da entrada da última etiqueta cadastrada no SAU para a secretaria e tipo de equipamento.
+
+O nome do LOCAL na lista deve ser exatamente igual aos disponiveis no combo Depto. no formulário de inclusão.
+
